@@ -1,0 +1,3 @@
+#1. Descarga el proyecto del repositorio en GitHub
+#2. Instala todas las depedenceias con el siguiente comando: npm install --legacy-peer-deps.
+# 3. arranca el servidor local del proyecto con el siguiente comando: npm run dev
